@@ -106,6 +106,7 @@ Notes
 Accuracy
 
 The accuracy of the model will be printed after the classification is complete.
+
 License
 
 This project is licensed under the MIT License.
