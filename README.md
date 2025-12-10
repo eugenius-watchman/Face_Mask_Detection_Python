@@ -1,3 +1,16 @@
+## Core Statistical & Machine Learning Methods
+This project applies the following key methodologies from applied statistics and machine learning:
+
+Binary Classification: The core task is a binary classification problem (Mask/No Mask) using labeled image data.
+
+Supervised Machine Learning: Implementation of a Support Vector Machine (SVM), a fundamental supervised learning algorithm for classification.
+
+Feature Engineering: Extraction of facial features using the Haar Cascade Classifier to transform raw images into data suitable for statistical modeling.
+
+Model Evaluation & Hypothesis Testing: The model's performance is evaluated using statistical metrics (accuracy), which inherently involves testing the hypothesis that the model's predictions are better than random chance.
+
+Applied Statistical Modeling: The entire pipeline—from data collection and feature extraction to model training and prediction—constitutes an applied statistical modeling workflow.
+
 A JPG image for experimenting the haar cascade classifier algorithm.
 Face Mask Detection using Python OPenCv Machine Learning and Python Sklearn.
 
